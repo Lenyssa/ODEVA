@@ -5,12 +5,8 @@
   "scripts": {
     "ng": "ng",
     "start":"ng serve",
-    "start_app": "ng serve",
     "build": "ng build --prod",
-    "test": "ng test",
-    "lint": "ng lint",
     "e2e": "ng e2e",
-    "start_server": "node Server.js"
   },
   "private": true,
   "dependencies": {
