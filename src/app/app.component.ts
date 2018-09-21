@@ -33,7 +33,11 @@ export class AppComponent implements OnInit {
       this.isOuvert = "ouvert";
       this.isSlide = "mainOuvert";
     }
+
   };
 
+  onProbleme() {
+    console.log('PAS DE VARIABLE EN FRANCAIS BANDE DE PIGNOUF');
+  }
   
 }
