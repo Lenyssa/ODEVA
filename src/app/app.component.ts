@@ -24,6 +24,8 @@ export class AppComponent implements OnInit {
   }
 
     onDeplier(){
+      /* NOM DE VARIABLE EN FRANCAIS SEROUSLYYYYYYYY UN PEU DE RESPECT!!!!!!!!!!!!!
+      RESPECTE TOI */
     if (this.isOuvert == "ouvert"){
       this.isOuvert = "ferme";
       this.isSlide = "main";
